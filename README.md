@@ -124,4 +124,4 @@ This keeps the hardware details encapsulated and the main loop clean.
 
 ## License
 
-This project is unlicensed. See [GUIDE.md](GUIDE.md) for an in-depth code walkthrough.
+See [LICENSE](LICENSE).
