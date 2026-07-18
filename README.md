@@ -2,7 +2,7 @@
 
 **Embedded temperature sensing on the Raspberry Pi Pico — with a clean producer/consumer architecture.**
 
-PicoTemp reads a MAX6675 thermocouple sensor over SPI and streams raw temperature data over USB serial to a PC for real-time display.
+PicoTemp reads a [MAX6675 thermocouple sensor](https://www.analog.com/media/en/technical-documentation/data-sheets/max6675.pdf) over SPI and streams raw temperature data over USB serial to a PC for real-time display.
 
 ```
 ┌──────────────────────┐    USB Serial     ┌──────────────────────┐
