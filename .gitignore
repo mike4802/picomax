@@ -1,6 +1,7 @@
 reader
-.rrd
+*.rrd
 reader.d*
 *_works
 .vscode
 build
+*.csv
