@@ -2,3 +2,4 @@ reader
 reader.d*
 *_works
 .vscode
+build
