@@ -1,9 +1,6 @@
 reader
+.rrd
 reader.d*
 *_works
 .vscode
-<<<<<<< HEAD
 build
-=======
-build
->>>>>>> e63da5e242b11bf4b2f10488cd3cc5dddc3ac88f
