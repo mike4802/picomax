@@ -5,3 +5,4 @@ reader.d*
 .vscode
 build
 *.csv
+*.png
